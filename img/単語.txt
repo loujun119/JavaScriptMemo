@@ -1,0 +1,23 @@
+programmer                プログラマー
+front-end developer       フロントエンドの開発者
+back-end developer        バックエンド開発者
+full-stack developer      フルスタック開発者
+browser                   ブラウザ
+constants                 定数
+primitive type            プリミティブ型
+reference type            参照タイプ
+dynamic type              ダイナミック型
+object                    オブジェクト
+console                   コンソール
+funciton                  機能
+
+
+
+
+
+
+
+
+
+
+
